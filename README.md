@@ -4,6 +4,14 @@
 
 ---
 
+## 🛠️ **Technologies Used**  
+
+- **Flutter** (Cross-platform mobile development)  
+- **Dart** (Programming language)  
+- **Firebase** (Authentication, Database, Notifications)   
+
+---
+
 ## 📲 Features  
 
 ### 🔹 **User Registration & Profile Setup**  
