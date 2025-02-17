@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.363" height="46.363" viewBox="0 0 46.363 46.363">
+    <g id="Group_1226" data-name="Group 1226" transform="translate(-314.637 -359.637)">
+        <path id="Icon_ionic-ios-play-circle" data-name="Icon ionic-ios-play-circle" d="M26.556,3.375A23.181,23.181,0,1,0,49.738,26.556,23.178,23.178,0,0,0,26.556,3.375ZM35.9,26.991,20.6,36.241a.5.5,0,0,1-.747-.435v-18.5a.494.494,0,0,1,.747-.435L35.9,26.122A.511.511,0,0,1,35.9,26.991Z" transform="translate(311.262 356.262)" fill="#563cde"/>
+        <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M16.722,8.46,2.853.261A1.881,1.881,0,0,0,0,1.888V18.283A1.89,1.89,0,0,0,2.853,19.91l13.869-8.2A1.889,1.889,0,0,0,16.722,8.46Z" transform="translate(331 372.998)" fill="#fff"/>
+    </g>
+</svg>

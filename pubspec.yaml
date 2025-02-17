@@ -1,0 +1,71 @@
+name: faster_workouts
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  auto_size_text: ^2.1.0
+  date_time_picker: ^2.0.0
+  shared_preferences: ^2.0.5
+  data_connection_checker: ^0.3.4
+  flutter_svg: ^0.19.3
+  image_picker: ^0.7.4
+  http: ^0.13.1
+  webview_flutter: ^2.0.9
+  fl_chart: ^0.12.2
+  modal_progress_hud: ^0.1.3
+  future_progress_dialog: ^0.2.0
+  lazy_load_scrollview: 1.3.0
+  share_files_and_screenshot_widgets: ^1.0.4
+  font_awesome_flutter: ^9.0.0
+  syncfusion_flutter_sliders: ^19.2.55
+  firebase_core: ^1.1.0
+  chewie_audio: ^1.3.0
+  firebase_auth: ^1.1.2
+  firebase_crashlytics: ^2.1.1
+  firebase_analytics: ^8.2.0
+  cloud_firestore: ^1.0.7
+  firebase_storage: ^8.0.5
+  google_sign_in: ^5.0.2
+  sign_in_with_apple: ^3.2.0
+  recursive_regex: ^1.0.0
+  jiffy: ^4.1.0
+  toast: ^0.1.5
+  email_launcher: ^1.1.1
+  video_player: ^2.2.8
+  facebook_app_events: ^0.13.4
+  crypto: ^3.0.1
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-SemiBold.ttf
+
+    - family: SansSerif
+      fonts:
+        - asset: assets/fonts/SansSerif.ttf
